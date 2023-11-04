@@ -7,7 +7,9 @@ Leaflet API is very similar to Google Maps API but there are no costs for any am
 
 User stories:
 I, an autonomous vehicle user, want to choose a spot on a map and output its coordinates.
+
 I, an autonomous vehicle user, want to choose multiple spots on a map to make the best travel path for my type of autonomous vehicle.
+
 I, an autonomous vehicle user, want to automatically send the coordinates from this app to the microcontroller on the drone.
 
 "Autonomous vehicle" can be replaced with drone, self-driving car, self-driving boat, etc.
